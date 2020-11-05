@@ -1,3 +1,2 @@
 # testing_git
-testing git
-hey ron
+testing git for command line
